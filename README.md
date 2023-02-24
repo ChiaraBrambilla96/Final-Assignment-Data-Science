@@ -9,3 +9,4 @@ The file in this repository must be readed in this order:
 5. EDA with Data Visualization.ipynb
 6. Interactive Visual Analytics with Folium lab.ipynb
 7. spacex_dash_app.py
+8. Machine Learning Prediction.ipynb
